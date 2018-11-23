@@ -1,0 +1,12 @@
+body, h1,h2,h3,h4,h5,h6 {font-family: "Century Gothic", sans-serif}
+.w3-row-padding img {margin-bottom: 12px}
+.bgimg {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('../images/kabyepetry.jpg');
+    min-height: 100%;
+}
+body {
+  background: #fcf3e4;
+}
